@@ -1,6 +1,6 @@
 # About Me  
 
-I am Alex, an 18-year-old gap year student exploring the intersection of financial tools and agentic AI. My academic background includes:  
+I am Alex, an 18-year-old gap year student exploring the intersection of financial tools and agentic AI. Despite delivering a strong set of A level results and meeting offers from top UK universities, I chose to spend a year focusing on gaining practical experience and learning real-world use cases for AI-driven automations. My academic background includes:  
 
 - **A*AAB at A-level** in Economics, Mathematics, Politics, and Further Mathematics (respectively)  
 - Currently resitting Mathematics to consolidate and deepen my quantitative foundations while applying them to practical projects.  
