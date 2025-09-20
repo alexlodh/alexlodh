@@ -18,7 +18,8 @@ I am particularly interested in how agentic AI (together with conventional data 
 ---
 
 ## Projects   
-- [Intro to RAG](https://github.com/alexlodh/Intro_To_RAG/blob/main/README.md) – Project focused on exploring differences between workflows, AI Agents and Agentic AI through the medium of private equity news analysis
+- [Intro to RAG](https://github.com/alexlodh/Intro_To_RAG/blob/main/README.md) - Project focused on exploring differences between workflows, AI Agents and Agentic AI through the medium of private equity news analysis
+- [Gold vs Equities](https://github.com/alexlodh/Gold_vs_Equities/tree/main) - simple visual tool to compare performance of gold and equities over customisable timeframes, using streamlit UI elements and the yfinance API
 
 *(Links will be updated as projects are published.)*  
 
