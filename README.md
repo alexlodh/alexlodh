@@ -3,7 +3,7 @@
 I am Alex, an 18-year-old gap year student exploring the intersection of financial tools and agentic AI. Despite delivering a strong set of A level results and meeting offers from top UK universities, I chose to spend a year focusing on gaining practical experience and learning real-world use cases for AI-driven automations. My academic background includes:  
 
 - **A*AAB at A-level** in Economics, Mathematics, Politics, and Further Mathematics (respectively)  
-- Currently resitting Mathematics to consolidate and deepen my quantitative foundations while applying them to practical projects.  
+- Microsoft certification in Azure AI Fundamentals
 
 I am particularly interested in how agentic AI (together with conventional data science tools) can be applied to financial systems— ranging from personal finance automation to large-scale economic modelling and decision support. My initial exploration in this field focuses on building experimental systems that combine technical rigour with economic insight.  
 
