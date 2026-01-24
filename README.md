@@ -21,6 +21,7 @@ I am particularly interested in how agentic AI (together with conventional data 
 - [Intro to RAG](https://github.com/alexlodh/Intro_To_RAG/blob/main/README.md) - Project focused on exploring differences between workflows, AI Agents and Agentic AI through the medium of private equity news analysis
 - [Gold vs Equities](https://github.com/alexlodh/Gold_vs_Equities/tree/main) - simple visual tool to compare performance of gold and equities over customisable timeframes, using streamlit UI elements and the yfinance API
 - [CLO RAG](https://github.com/alexlodh/RAG-CLO/settings) - tool to analyse the Collateralised Loan Obligation indenture documents and extract key fields
+- [Macro news - Market impacts](https://github.com/alexlodh/Macro-news---market-impact) - Agentic AI tool to ingest rss news feeds of financial news and analyse expected macroecononmic impacts
 
 *(Links will be updated as projects are published.)*  
 
