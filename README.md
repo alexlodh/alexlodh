@@ -1,6 +1,6 @@
 # About Me  
 
-I'm Alex, a 19 year old gap year student exploring the intersection of financial tools and agentic AI. Despite delivering a strong set of A level results and meeting offers from top UK universities, I chose to spend a year focusing on gaining practical experience and learning real-world use cases for AI-driven automations. My academic background includes:  
+I'm Alex, a first year economics student at the University of Bath exploring the intersection of financial tools and agentic AI. After delivering a strong set of A level results and meeting offers from top UK universities, I chose to spend a year focusing on gaining practical experience and learning real-world use cases for AI-driven automations. My academic background includes:  
 
 - **A*AAB at A-level** in Economics, Mathematics, Politics, and Further Mathematics (respectively)  
 - Microsoft certification in Azure AI Fundamentals
